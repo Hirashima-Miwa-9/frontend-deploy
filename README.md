@@ -15,7 +15,7 @@ git commit -m "Initial commit"
 git remote add origin your-repository-url
 git remote add origin https://tech0-gen-9-step3-1-node-15.azurewebsites.net/
 https://github.com/Hirashima-Miwa-9/backend-deploy.git
-
+tech0-gen-9-step3-1-node-15.azurewebsites.net
 git remote add origin https://github.com/Hirashima-Miwa-9/frontend-deploy.git
 
 ## 5. ローカルのmainブランチをリモートにプッシュ
