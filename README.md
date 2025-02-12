@@ -2,7 +2,7 @@
 git remote remove origin
 ## 1. カレントディレクトリをGitリポジトリとして初期化
 git init
-git remote add origin https://github.com/yourusername/my-next-app.git
+
 git add .
 
 ## 2. ファイルをステージングエリアに追加
