@@ -1,7 +1,9 @@
 # Githubリポジトリの初期化→プッシュまで
-
+git remote remove origin
 ## 1. カレントディレクトリをGitリポジトリとして初期化
 git init
+git remote add origin https://github.com/yourusername/my-next-app.git
+git add .
 
 ## 2. ファイルをステージングエリアに追加
 git add .
@@ -11,7 +13,10 @@ git commit -m "Initial commit"
 
 ## 4. リモートリポジトリのURLを追加（URLは実際のものに置き換えてください）
 git remote add origin your-repository-url
+git remote add origin https://tech0-gen-9-step3-1-node-15.azurewebsites.net/
+https://github.com/Hirashima-Miwa-9/backend-deploy.git
 
+git remote add origin https://github.com/Hirashima-Miwa-9/frontend-deploy.git
 
 ## 5. ローカルのmainブランチをリモートにプッシュ
 git push -u origin main
