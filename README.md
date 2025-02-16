@@ -6,7 +6,8 @@ git init
 git add .
 
 ## 2. ファイルをステージングエリアに追加
-git add .
+
+
 
 ## 3. 初期コミットを作成
 git commit -m "Initial commit"
