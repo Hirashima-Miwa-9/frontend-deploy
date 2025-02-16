@@ -13,8 +13,11 @@ git commit -m "Initial commit"
 
 ## 4. リモートリポジトリのURLを追加（URLは実際のものに置き換えてください）
 git remote add origin https://github.com/Hirashima-Miwa-9/frontend-deploy.git
-it remote add origin https://tech0-gen-9-step3-1-node-15.azurewebsites.net/
+git remote add origin https://tech0-gen-9-step3-1-node-15.azurewebsites.net/
 https://github.com/Hirashima-Miwa-9/backend-deploy.git
+
+tech0-gen-9-step3-1-node-15.azurewebsites.net
+
 tech0-gen-9-step3-1-node-15.azurewebsites.net
 git remote add origin https://github.com/Hirashima-Miwa-9/frontend-deploy.git
 
